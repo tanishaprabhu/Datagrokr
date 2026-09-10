@@ -1,5 +1,5 @@
-CLI Grade Calculator
-A simple Python CLI project to manage student marks and calculate grades.
+CLI Grade Calculator: 
+A simple Python-based command-line Grade Calculator that manages student marks, calculates averages and grades, and stores results in a CSV file.
 
 Features
 1. Add and search students
