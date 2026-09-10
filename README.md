@@ -7,6 +7,6 @@ Features
 3. Save/read results using CSV
 4. Handle invalid inputs
 
-Concepts : Lists, Tuples, Sets, Dictionaries, Loops, Functions, Strings, CSV & Exception Handling.
+Concepts : Lists, Tuples, Sets, Dictionaries, Loops, Functions, Strings, CSV and Exception Handling.
 
 Technology : Python
