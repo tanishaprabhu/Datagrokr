@@ -1,5 +1,4 @@
-Week 3 - ETL Pipeline Project
-This project implements a simple ETL (Extract, Transform, Load) pipeline using Python.
+Week 3 - ETL Pipeline Project : This project implements a simple ETL (Extract, Transform, Load) pipeline using Python.
 
 The pipeline:
 1. Extracts user data from a REST API.
