@@ -1,4 +1,4 @@
-# SQL E-commerce— Week 4
+# SQL E-commerce
 
 A SQL project focused on analyzing e-commerce data and extracting business insights.
 
