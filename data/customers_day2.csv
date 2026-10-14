@@ -1,0 +1,14 @@
+customer_id,first_name,last_name,email,city,is_active
+1001,Aarav,Shah,aarav.shah1001@newmail.example.com,Hyderabad,True
+1002,Diya,Rao,diya.rao1002@newmail.example.com,Chennai,True
+1003,Kabir,Mehta,kabir.mehta1003@newmail.example.com,Delhi,True
+1004,Anaya,Iyer,anaya.iyer1004@newmail.example.com,Kochi,True
+1005,Ishaan,Nair,ishaan.nair1005@newmail.example.com,Ahmedabad,True
+1006,Meera,Kapoor,meera.kapoor1006@newmail.example.com,Jaipur,True
+1007,Rohan,Das,rohan.das1007@newmail.example.com,Kolkata,True
+1008,Tara,Kulkarni,tara.kulkarni1008@newmail.example.com,Bengaluru,True
+1021,Aditya,Mishra,aditya.mishra21@example.com,Bengaluru,True
+1022,Kiara,Saxena,kiara.saxena22@example.com,Mumbai,True
+1023,Manav,Jain,manav.jain23@example.com,Pune,True
+1024,Riya,Roy,riya.roy24@example.com,Hyderabad,True
+1025,Om,Bhat,om.bhat25@example.com,Chennai,True
